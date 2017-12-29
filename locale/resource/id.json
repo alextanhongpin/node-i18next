@@ -1,0 +1,28 @@
+{
+  "translation": {
+		"good_day": "Hari ini adalah hari yang baik!",
+		"greeting": "Hi, {{name}}! Hari bagus!",
+		
+		"homepage_url": "www.google.com",
+		"homepage_url_malaysia": "www.google.my",
+		"homepage_url_indonesia": "www.google.id",
+
+		"button": {
+			"sign_up": "Daftar sekarang gratis",
+			"buy": "Beli ini sekarang",
+			"see_more": "Lihat lebih banyak perkerjaan"
+		},
+		"buy_coffee": "Saya membeli {{coffee.type}} seharga {{coffee.price, $ 0,0.00}}.",
+
+		"job": "perkerjaan",
+		"job_plural": "perkerjaan",
+		"job_message": "Ada {{count}} $t(job) untukmu!",
+		"job_message_plural": "Ada {{count}} $t(job) untukmu!",
+
+		"today_message": "Tanggal sekarang adalah {{- date, Do MMMM YYYY }}",
+
+		"receive_message": "Saya menerima pesan baru hari ini",
+		"receive_message_email": "Saya menerima email baru hari ini",
+		"receive_message_facebook": "Saya menerima pesan facebook baru hari ini"
+  }
+}

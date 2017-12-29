@@ -1,0 +1,11 @@
+{
+  "name": "seek-i18next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^10.2.1",
+    "moment": "^2.20.1",
+    "numeral": "^2.0.6"
+  }
+}

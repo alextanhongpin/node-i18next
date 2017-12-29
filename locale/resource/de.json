@@ -1,0 +1,28 @@
+{
+  "translation": {
+		"good_day": "Heute ist ein guter Tag!",
+		"greeting": "Hallo, {{name}}! Schönen Tag!",
+		
+		"homepage_url": "www.google.com",
+		"homepage_url_malaysia": "www.google.my",
+		"homepage_url_indonesia": "www.google.id",
+
+		"button": {
+			"sign_up": "Jetzt kostenlos registrieren",
+			"buy": "Jetzt kaufen",
+			"see_more": "Weitere Jobs anzeigen"
+		},
+		"buy_coffee": "Ich habe {{coffee.type}} für {{coffee.price, $ 0,0.00}} gekauft.",
+
+		"job": "Job",
+		"job_plural": "Jobs",
+		"job_message": "Es gibt einen $t(job) für dich!",
+		"job_message_plural": "Es gibt {{count}} $t(job) für dich!",
+
+		"today_message": "Das aktuelle Datum ist {{- date, Do MMMM YYYY }}",
+
+		"receive_message": "Ich erhalte heute eine neue Nachricht",
+		"receive_message_email": "Ich erhalte heute eine neue E-Mail",
+		"receive_message_facebook": "Ich erhalte heute eine neue Facebook-Nachricht"
+  }
+}
